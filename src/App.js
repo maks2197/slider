@@ -9,7 +9,7 @@ import Header from './components/Header';
 import Main from './components/Main';
 import Menu from './components/Menu';
 
-const url = process.env.PUBLIC_URL + '/img/bg.jpg';
+const url = process.env.PUBLIC_URL + '../img/bg.jpg';
 
 const HeaderWrapper = styled.header`
   width: 100%;
